@@ -1,0 +1,14 @@
+D:\GitHub\Problems\Anagrams\bin\Debug\net8.0\Anagrams.exe
+D:\GitHub\Problems\Anagrams\bin\Debug\net8.0\Anagrams.deps.json
+D:\GitHub\Problems\Anagrams\bin\Debug\net8.0\Anagrams.runtimeconfig.json
+D:\GitHub\Problems\Anagrams\bin\Debug\net8.0\Anagrams.dll
+D:\GitHub\Problems\Anagrams\bin\Debug\net8.0\Anagrams.pdb
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.AssemblyInfoInputs.cache
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.AssemblyInfo.cs
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.csproj.CoreCompileInputs.cache
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.dll
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\refint\Anagrams.dll
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.pdb
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\Anagrams.genruntimeconfig.cache
+D:\GitHub\Problems\Anagrams\obj\Debug\net8.0\ref\Anagrams.dll
